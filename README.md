@@ -1,7 +1,7 @@
 # Face Mask Detection using CNN (TensorFlow, Keras, OpenCV)
 This project is a deep learning-based image classification model designed to detect whether a person in an image is wearing a face mask or not. It uses a Convolutional Neural Network (CNN) built with TensorFlow and Keras, and includes preprocessing with OpenCV and other tools.
 
-📌 Features
+### 📌 Features
 
 CNN-based binary image classifier.
 
@@ -17,6 +17,8 @@ ROC-AUC Curve
 
 Log Loss
 
+### Screenshots
+
 Custom image predictions supported (test with your own images).
 ![WhatsApp Image 2025-07-05 at 11 34 49_e4d7a588](https://github.com/user-attachments/assets/8b8e0d07-0788-40c7-a12d-512a602725d3)
 
@@ -28,7 +30,7 @@ Custom image predictions supported (test with your own images).
 
 ![WhatsApp Image 2025-07-05 at 11 36 20_20972b90](https://github.com/user-attachments/assets/0b912958-8f69-4141-8bcf-49014047d836)
 
-📂 Dataset
+### 📂 Dataset
 
 Dataset used:
 
@@ -36,7 +38,7 @@ Face Mask Dataset - Kaggle
 
 
 
-🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 Python
 
@@ -53,7 +55,7 @@ PIL (Python Imaging Library)
 
 
 
-🚀 Model Architecture
+### 🚀 Model Architecture
 
 Convolutional Layers + MaxPooling
 
@@ -67,7 +69,7 @@ Loss: Sparse Categorical Crossentropy
 
 
 
-📊 Results
+### 📊 Results
 
 Metric	Value
 
@@ -79,7 +81,7 @@ Validation Accuracy	Up to 92%
 
 
 
-🔎 How to Use
+### 🔎 How to Use
 
 Clone the repository:
 
@@ -99,7 +101,7 @@ Run the training script (face_mask_detection.py or notebook).
 
 
 
-🎯 Predicting on Custom Images
+### 🎯 Predicting on Custom Images
 
 Place your test image in the project folder.
 
@@ -107,12 +109,12 @@ Use the provided prediction function
 
 
 
-📄 License
+### 📄 License
 
 This project is for academic and educational purposes.
 
 
 
-🙋‍♀️ Author
+### 🙋‍♀️ Author
 
 Saumya Mishra
