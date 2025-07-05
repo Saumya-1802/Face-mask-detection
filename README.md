@@ -32,10 +32,47 @@ Face Mask Dataset - Kaggle
 
 🛠️ Tech Stack
 Python
+
 TensorFlow & Keras
+
 OpenCV
+
 scikit-learn
+
 Matplotlib & Seaborn
+
 PIL (Python Imaging Library)
 
+🚀 Model Architecture
+Convolutional Layers + MaxPooling
 
+Dense Fully Connected Layers with Dropout
+
+Sigmoid Activation for Binary Classification
+
+Optimizer: Adam
+
+Loss: Sparse Categorical Crossentropy
+
+📊 Results
+Metric	Value
+Test Accuracy	91%
+Test Loss	0.19
+Validation Accuracy	Up to 92%
+
+🔎 How to Use
+Clone the repository:
+
+bash
+Copy
+Edit
+git clone https://github.com/Saumya-1802/Face-Mask-Detection.git
+Install dependencies:
+
+bash
+Copy
+Edit
+pip install tensorflow keras opencv-python matplotlib seaborn scikit-learn pillow
+Download and extract the dataset into the project directory.
+
+Run the training script (face_mask_detection.py or notebook).
