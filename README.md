@@ -16,4 +16,5 @@ ROC-AUC Curve
 Log Loss
 
 Custom image predictions supported (test with your own images).
+![WhatsApp Image 2025-07-05 at 11 34 49_e4d7a588](https://github.com/user-attachments/assets/8b8e0d07-0788-40c7-a12d-512a602725d3)
 
